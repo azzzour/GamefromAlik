@@ -1,0 +1,8 @@
+#pragma once
+#include <SFML/Graphics.hpp>
+#define PI 3.1415926535897932384626433832795
+
+// SCREEN SIZE
+#define SCREEN_WIDTH 500
+#define SCREEN_HEIGHT 500
+#define CIRCLE_CONVEX_NUMBER 30

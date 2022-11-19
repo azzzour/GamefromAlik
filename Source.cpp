@@ -154,5 +154,6 @@ int main()
         line[0] = Vertex(Vector2f(px+5-pdx*50, py+5-pdy*50));
         line[1] = Vertex(Vector2f(px+5, py+5));
     }
+    cout << "Great";
     return 0;
 }
